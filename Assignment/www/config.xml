@@ -19,5 +19,5 @@
   </author>
 
 
-<gap:plugin name="org.apache.cordova.inappbrowser" version="0.5.2" />
+<plugin name="org.apache.cordova.contacts" spec="0.2.16" source="npm" />
 </widget>
